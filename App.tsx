@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>conico コンテンツ登録画面</Text>
+      <Text>conico コンテンツ登録画面です</Text>
       {contentsItems}
       {/* <StatusBar style="auto" /> */}
     </View>
